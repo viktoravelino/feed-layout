@@ -70,7 +70,7 @@
 }
 
 .likeButton:hover {
-  color: var(--green-300);
+  color: var(--purple-300);
 }
 
 .likeButton svg {
