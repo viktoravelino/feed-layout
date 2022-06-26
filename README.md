@@ -1,4 +1,4 @@
-![Test Image 1](https://raw.githubusercontent.com/viktoravelino/feed-layout/main/src/screenShot.png)
+![Test Image 1](https://raw.githubusercontent.com/viktoravelino/feed-layout/main/src/assets/screenShot.png)
 
 ## ✨ Technologies
 
