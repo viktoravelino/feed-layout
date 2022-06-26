@@ -12,7 +12,10 @@ This project use the following technologies:
 ## 💻 Project
 
 This project is a simple feed layout example.
-_Most of the data is static at this point_
+
+##### _Most of the data is static at this point_
+
+<br>
 
 Access Live here: [Feed Layout](https://viktoravelino.com/feed-layout/)
 
